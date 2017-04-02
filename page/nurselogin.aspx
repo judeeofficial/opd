@@ -13,8 +13,8 @@
       <input type="password" placeholder="password"/>
     <asp:Button ID="Button1" runat="server" class="btn btn-primary" Text="login" BackColor="#660033" />
       
-      <p class="message">Not registered? <a href="#">
-          <asp:LinkButton ID="LinkButton1" runat="server">ลงทะเบียน</asp:LinkButton></a></p>
+         <p class="message">ถ้าไม่มีรหัสผ่านเข้าสู่ระบบโปรดแจ้งกับหัวหน้างาน</p>
+    
     
   </div>
 </div>

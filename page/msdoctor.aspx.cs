@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-public partial class page_index : System.Web.UI.Page
+public partial class page_msdoctor : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
